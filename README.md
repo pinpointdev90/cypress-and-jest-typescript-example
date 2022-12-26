@@ -53,3 +53,4 @@ This project is licensed under the terms of the [MIT license](/LICENSE.md).
 
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
+
